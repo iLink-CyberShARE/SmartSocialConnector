@@ -1,7 +1,6 @@
-# Perceived Social Connectedness in Senescence: A Human-Centered Approach for the Digital Age
+# Supplementary Material for Perceived Social Connectedness in Senescence: A Human-Centered Approach for the Digital Age
 
-## Supplementary Material
-
+## Description
 Exploratory Factor Analysis Items and Factor Loadings    
 Human-Computer Interaction   
 
